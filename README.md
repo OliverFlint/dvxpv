@@ -1,3 +1,4 @@
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/OliverFlint/dvxpv/build.yaml)
 [![NPM Version](https://img.shields.io/npm/v/dvxpv)](https://www.npmjs.com/package/dvxpv)
 ![GitHub License](https://img.shields.io/github/license/OliverFlint/dvxpv)
 ![GitHub Issues](https://img.shields.io/github/issues/OliverFlint/dvxpv)
