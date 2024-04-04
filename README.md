@@ -1,3 +1,10 @@
+[![NPM Version](https://img.shields.io/npm/v/dvxpv)](https://www.npmjs.com/package/dvxpv)
+![GitHub License](https://img.shields.io/github/license/OliverFlint/dvxpv)
+![GitHub Issues](https://img.shields.io/github/issues/OliverFlint/dvxpv)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/OliverFlint/dvxpv)
+![GitHub Repo stars](https://img.shields.io/github/stars/OliverFlint/dvxpv?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/OliverFlint/dvxpv?style=flat)
+
 # Dataverse Export Personal Views
 
 Exports personal view details for all users within a dataverse environment.

@@ -28,7 +28,7 @@ import { writeFile, mkdir } from "fs";
 
   program
     .version(packageJson.version)
-    .description(packageJson.description)
+    .description(`${packageJson.description} by ${packageJson.author}`)
     .requiredOption("-u, --url <url>", "Dataverse Environment Url")
     .option("-o, --output <output>", "Output path", "./output")
     .option(
